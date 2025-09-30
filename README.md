@@ -57,8 +57,3 @@ O mármore é usado em esculturas e construções desde a Grécia Antiga.
 
 As rochas sedimentares são as únicas que podem conter fósseis.
 
-🧠 Resumo
-Tipo de Rocha	Formação	Exemplos
-Magmáticas	Resfriamento do magma	Granito, Basalto
-Sedimentares	Compactação de sedimentos	Arenito, Calcário
-Metamórficas	Transformação por pressão/temperatura	Mármore, Gnaisse
